@@ -1,0 +1,40 @@
+/* .bg-img-1 {
+    background-image: url(/images/vadim-sadovski-AmtDxJpEEEg-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.bg-img-2 {
+    background-image: url(/images/photo-1613403142188-4f494454a51d_2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+.bg-img-3 {
+    background-image: url(/images/logo-present-502-be046070be12d680-2702-kb_3.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 400px;
+} */
+.flex-center{
+  display: flex !important;
+  align-items: center !important
+}
+
+.p-30{
+    padding: 30px !important;
+}
+
+.border-t{
+  border-top: 1px solid lightgray;
+}
+
+.border-b{
+    border-bottom: 1px solid lightgray;
+}
+
+.nav-bar-c{
+  margin: 0 !important;
+  background-color: white !important;
+}
+
