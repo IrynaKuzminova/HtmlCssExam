@@ -293,7 +293,7 @@
   width: 50%;
 }
 
-/* label{
-  font-weight: bold;
-} */
+.dark-bg:hover{
+  border: 1px solid black;
+}
 
