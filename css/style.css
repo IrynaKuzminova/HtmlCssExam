@@ -82,6 +82,10 @@
   width: 50% !important;
 }
 
+.nav-icons{
+  display:none !important;
+}
+
 }
 
 .inner-carousel {
@@ -95,6 +99,7 @@
     width: 184px;
     height: 250px;
   }
+
   .hls_sol .gallery-item {
     display: inline-block;
     float: left;
@@ -132,6 +137,10 @@
 
 .greeting-img-wr{
   width: 100% !important;
+}
+
+.nav-icons{
+  display:none !important;
 }
  
 }
@@ -283,4 +292,8 @@
 .greeting-img-wr{
   width: 50%;
 }
+
+/* label{
+  font-weight: bold;
+} */
 
