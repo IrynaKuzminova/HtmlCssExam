@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Ubuntu:wght@300&display=swap');
+
+body{
+  font-family: 'Ubuntu', sans-serif;
+}
+
 .flex-center{
   display: flex !important;
   align-items: center !important
@@ -295,5 +301,9 @@
 
 .dark-bg:hover{
   border: 1px solid black;
+}
+
+label{
+  font-weight: bold;
 }
 
